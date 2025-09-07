@@ -1,0 +1,13 @@
+{
+  "name": "informational-website",
+  "version": "1.0.0",
+  "description": "A basic informational website with multiple pages.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "dependencies": {},
+  "author": "",
+  "license": "ISC"
+}
